@@ -28,3 +28,6 @@ nav a{
     margin-right: 20px;
     font-size: 30px;
 }
+a:hover{
+    opacity: 0.5;
+}
